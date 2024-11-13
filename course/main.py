@@ -1,5 +1,5 @@
-
-
-user_age = input('Veuillez entrer votre age : ')
-print('vous avez ' + user_age + ' ans')
-print(f'vous avez {user_age *4} ans')
+# Boucle : While
+i = 0
+while i < 5:
+    print(i)
+    i += 1
