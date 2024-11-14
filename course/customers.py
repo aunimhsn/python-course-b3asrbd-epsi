@@ -18,30 +18,4 @@ Nom : Tardieu
 Prénom : Olivier
 Age : 32
 Email : olivier.tardieu@xyz.com
-Hobbies : [Hobbies non renseignés]
-"""
-
-customers = [
-    {
-        "last_name": "Doe",
-        "first_name": "John", # trailing comma
-        "age": 21,
-        "email": "john.doe@xyz.com",
-        "hobbies": ["Karaté", "Tennis"]
-    },
-    {
-        "last_name": "Doe",
-        "first_name": "John", # trailing comma
-        "age": 21,
-        "email": "john.doe@xyz.com",
-        "hobbies": ["Natation", "Musique"]
-    },
-        {
-        "last_name": "Doe",
-        "first_name": "John", # trailing comma
-        "age": 21,
-        "email": "john.doe@xyz.com",
-        "hobbies": ["Natation", "Musique"]
-    }
-]
 
